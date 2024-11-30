@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/h7Zbt3d/Service1.jpg",
+      "serviceName": "Career Counseling Sessions",
+      "category": "Online",
+      "description": "One-on-one counseling to guide you in choosing the right career path.",
+      "pricing": "$50 per session",
+      "duration": "2024-12-05, 5:00 PM - 6:00 PM",
+      "counselor": "Dr. Sarah Johnson",
+      "rating": 4.8
+
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/6gPrf5T/Service2.png",
+      "serviceName": "Resume Review",
+      "category": "Online",
+      "description": "Get expert feedback on your resume to stand out to employers.",
+      "pricing": "$30 per review",
+      "duration": "2024-12-06, 3:00 PM - 3:30 PM",
+      "counselor": "Emily Roberts",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/fC8P0DD/Service-3.png",
+      "serviceName": "Group Career Planning Workshop",
+      "category": "Offline",
+      "description": "Interactive group session to explore career trends and options.",
+      "pricing": "$100 per person",
+      "duration": "2024-12-07, 10:00 AM - 1:00 PM",
+      "counselor": "John Davis",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/JQfDM3p/Service-4.png",
+      "serviceName": "Mock Interview",
+      "category": "Online",
+      "description": "Practice interviews with feedback to boost your confidence.",
+      "pricing": "$40 per session",
+      "duration": "2024-12-08, 4:00 PM - 5:00 PM",
+      "counselor": "Mark Peterson",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/8032gWm/Service-5.jpg",
+      "serviceName": "Skill Assessment",
+      "category": "Online",
+      "description": "Identify your strengths and areas for improvement.",
+      "pricing": "$25 per session",
+      "duration": "2024-12-09, 2:00 PM - 3:00 PM",
+      "counselor": "Dr. Amanda Smith",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/wyt1S57/Service-6.png",
+      "serviceName": "Job Market Trends Seminar",
+      "category": "Offline",
+      "description": "Stay updated with the latest trends in the job market.",
+      "pricing": "Free",
+      "duration": "2024-12-10, 1:00 PM - 3:00 PM",
+      "counselor": "Panel of Experts",
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/Sfm0GzH/Service-7.png",
+      "serviceName": "Networking Skills Training",
+      "category": "Online",
+      "description": "Learn how to build meaningful professional connections.",
+      "pricing": "$60 per session",
+      "duration": "2024-12-11, 11:00 AM - 12:30 PM",
+      "counselor": "Sophia Anderson",
+      "rating": 4.7
+
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/b7KqTDS/Service-8.jpg",
+      "serviceName": "Public Speaking Coaching",
+      "category": "Online",
+      "description": "Master the art of confident and impactful communication.",
+      "pricing": "$70 per session",
+      "duration": "2024-12-12, 6:00 PM - 7:30 PM",
+      "counselor": "Michael Lee",
+      "rating": 4.8
+
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/tMFzQ8y/Service-9.png",
+      "serviceName": "Interview Preparation Bootcamp",
+      "category": "Group",
+      "description": "A comprehensive workshop to ace your interviews.",
+      "pricing": "$150 per participant",
+      "duration": "2024-12-13, 9:00 AM - 4:00 PM",
+      "counselor": "Team of Experts",
+      "rating": 5.0
+    }
+  ]
